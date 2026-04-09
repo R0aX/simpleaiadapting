@@ -63,6 +63,7 @@ def generate_name():
     p = ["Neo", "Vex", "Flux", "Echo", "Void", "Zen", "Astra", "Mega"]
     s = ["Node", "Core", "Link", "Soul", "Bit", "Wire", "Mina", "Ray"]
     return f"{random.choice(p)}_{random.choice(s)}"# Orb Evolution Simulator 🧬
+```
 
 A Python-based genetic algorithm visualization where autonomous agents ("Orbs") learn to navigate obstacle courses through natural selection, mutation, and trial-and-error physics.
 
