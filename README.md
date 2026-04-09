@@ -67,5 +67,3 @@ def generate_name():
 
 
 
-Soul", "Bit", "Wire", "Mina", "Ray"]
-    return f"{random.choice(p)}_{random.choice(s)}"
