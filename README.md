@@ -10,7 +10,7 @@ Below are snapshots of the simulation progressing through different generations 
 
 | **Generation 1: Initial Chaos** | **Generation 9: Learned Traversal** | **Level 5: Advanced Navigation** |
 | :--- | :--- | :--- |
-| ![Gen 1](a.jpg) | ![Gen 9](b.jpg) | ![Lvl 5](c.jpg) |
+| ![Gen 1](a.png) | ![Gen 9](b.png) | ![Lvl 5](c.png) |
 | *Orbs move randomly, frequently colliding with walls.* | *Successful patterns emerge as orbs avoid vertical pillars.* | *Advanced populations tackle complex horizontal platforms.* |
 
 ---
